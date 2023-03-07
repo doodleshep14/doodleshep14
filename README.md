@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doodleshep14
 - 👀 I’m interested in making mods and games
-- 🌱 I’m currently learning C# and JSON subtitles
+- 🌱 I’m currently learning C# and Python
 - 💞️ I’m looking to collaborate on ... hmm not much actually
 - 📫 How to reach me? No idea
 
